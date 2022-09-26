@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (7.2.0)
+  - KRActivityIndicatorView (3.0.7)
+  - KRProgressHUD (3.4.7):
+    - KRActivityIndicatorView (= 3.0.7)
+  - ObjectMapper (4.2.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Kingfisher
+  - KRProgressHUD
+  - ObjectMapper
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - ObjectMapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: 3ac0b75b155cabc0e544877d1a4deea29feece92
+  KRActivityIndicatorView: ad69e89c4ce40c986cf580595be4829dcad0e35a
+  KRProgressHUD: a248f0bc6c9c2aed40a37b76e03ffecc7f85c887
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 7291afc4486af1085916eee837ee38b38900ac36
+
+COCOAPODS: 1.11.2
